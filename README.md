@@ -29,3 +29,4 @@ Portfólio pessoal hospedado via **GitHub Pages**.
 - Adicionar screenshot do blog no projeto
 - Criar seção de certificados
 # Portf-lio_Dev
+# Portf-lio_Dev
